@@ -1,0 +1,11 @@
+package com.zss.git;
+
+/**
+ * @author zss
+ * @create 2021-02-23 19:02
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Git");
+    }
+}
